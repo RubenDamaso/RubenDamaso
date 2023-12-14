@@ -1,8 +1,8 @@
 ### Olá , Bem-vindo ao meu Perfil ! 👋
 <div align="center">
-  <a href="https://github.com/RubenDamaso">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RubenDamaso&show_icons=true&theme=prussian%20&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenDamaso&layout=compact&langs_count=7&theme=default_repocard"/>
+ 
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RubenDamaso&theme=dark&show_icons=true&hide_border=false&count_private=false"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenDamaso&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
